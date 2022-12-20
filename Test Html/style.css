@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+#turu div img {
+    border: 2px solid gray;
+}
+
+#turu2 div img {
+    border: 2px solid gray;
+}
